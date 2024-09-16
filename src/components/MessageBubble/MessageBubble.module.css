@@ -1,0 +1,30 @@
+.bubble{
+    padding: 0.5% 1%;
+    border-radius: 10px;
+    
+}
+
+.userBubble{
+    background-color: #fff;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.userText{
+    color: #8d8d8d;
+    font-size: 11px;
+}
+
+.AIBubble{
+    background-color: #ffffff;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.AItext{
+    color: #8d8d8d;
+    font-size: 11px;
+}
+
